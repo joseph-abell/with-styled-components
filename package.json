@@ -14,7 +14,7 @@
     "date-fns": "^2.16.1",
     "google-map-react": "^2.1.9",
     "gray-matter": "^4.0.2",
-    "marked": "^1.2.7",
+    "marked": "^2.0.0",
     "next": "latest",
     "react": "^16.8.0",
     "react-burger-menu": "^3.0.3",
